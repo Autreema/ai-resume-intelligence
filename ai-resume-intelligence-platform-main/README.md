@@ -18,24 +18,7 @@
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 Landing Page
-![Landing Page](screenshots/landing.png)
-
-### 🔐 Login & Signup
-![Login](screenshots/login.png)
-
-### 📊 Analytics Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### 🧠 ML Analysis — TF-IDF Job Match & Skill Gap
-![ML Analysis](screenshots/ml_analysis.png)
-
-### 🤖 AI Features — Powered by Groq LLaMA 3.3 70B
-![AI Features](screenshots/ai_features.png)
-
----
 
 ## ✨ Features
 
