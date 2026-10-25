@@ -54,7 +54,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/M-jahnavi08/ai-resume-intelligence-platform.git
+git clone https://github.com/Autreema/ai-resume-intelligence-platform.git
 cd ai-resume-intelligence-platform
 
 # 2. Install dependencies
