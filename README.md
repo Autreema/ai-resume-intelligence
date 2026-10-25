@@ -13,28 +13,12 @@
 
 ### 🔗 [LIVE DEMO →](https://ai-resume-intelligence-platform-wi3gfwjxxmpspjcc3onyac.streamlit.app/)
 
-**Built by [Mommineedi Jahnavi Satya](https://github.com/M-jahnavi08)**
 
 </div>
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 Landing Page
-![Landing Page](screenshots/landing.png)
-
-### 🔐 Login & Signup
-![Login](screenshots/login.png)
-
-### 📊 Analytics Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### 🧠 ML Analysis — TF-IDF Job Match & Skill Gap
-![ML Analysis](screenshots/ml_analysis.png)
-
-### 🤖 AI Features — Powered by Groq LLaMA 3.3 70B
-![AI Features](screenshots/ai_features.png)
 
 ---
 
@@ -72,7 +56,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/M-jahnavi08/ai-resume-intelligence-platform.git
+git clone https://github.com/Autreema/ai-resume-intelligence-platform.git
 cd ai-resume-intelligence-platform
 
 # 2. Install dependencies
@@ -165,10 +149,4 @@ Text Extraction (pdfplumber)
 
 ---
 
-## 👩‍💻 Developer
 
-**Mommineedi Jahnavi Satya** — Built as a full-stack AI + ML portfolio project.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mommineedi-jahnavisatya-b8955a352)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/M-jahnavi08)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-brightgreen?style=flat)](https://ai-resume-intelligence-platform-wi3gfwjxxmpspjcc3onyac.streamlit.app/)
