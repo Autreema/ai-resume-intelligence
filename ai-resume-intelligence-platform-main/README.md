@@ -13,7 +13,6 @@
 
 ### 🔗 [LIVE DEMO →](https://ai-resume-intelligence-platform-wi3gfwjxxmpspjcc3onyac.streamlit.app/)
 
-**Built by [Mommineedi Jahnavi Satya](https://github.com/M-jahnavi08)**
 
 </div>
 
@@ -165,9 +164,6 @@ Text Extraction (pdfplumber)
 
 ---
 
-## 👩‍💻 Developer
-
-**Mommineedi Jahnavi Satya** — Built as a full-stack AI + ML portfolio project.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mommineedi-jahnavisatya-b8955a352)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/M-jahnavi08)
