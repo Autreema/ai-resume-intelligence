@@ -139,14 +139,6 @@ Text Extraction (pdfplumber)
 
 ---
 
-## 🌐 Deploy on Streamlit Cloud
 
-1. Push to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your repo
-4. Add `GROQ_API_KEY` in Secrets
-5. Deploy — get a public URL instantly
-
----
 
 
